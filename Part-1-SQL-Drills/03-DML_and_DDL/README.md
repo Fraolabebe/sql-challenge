@@ -3,7 +3,8 @@
 ## Part 1
 
 * What is the difference between `DML` and `DDL` in SQL?
-
+DML:
+DDL :
 ## Part 2
 
 * Demonstrate a use of `DML` in the following table:
